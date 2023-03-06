@@ -1,2 +1,1 @@
-# AnimaCursoDeExtensaoPythonPandas2023-1
-
+# Curso de extensão Python, utilizando a bibli Pandas #
